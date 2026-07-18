@@ -1,4 +1,4 @@
-Build a command-line Expense Tracker application using Python.
+BUILD A COMMAND LINE EXPENSE TRACKER USING PYTHON PROGRAM
 
 Project Description
 Create an Expense Tracker that allows users to 
